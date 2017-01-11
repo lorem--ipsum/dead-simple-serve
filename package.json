@@ -4,8 +4,7 @@
   "description": "A dead simple HTTP server",
   "main": "index.js",
   "bin": {
-    "dead-simple-serve": "bin/dead-simple-serve",
-    "bork": "bin/bork"
+    "dead-simple-serve": "index.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
